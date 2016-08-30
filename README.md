@@ -9,12 +9,12 @@ it can be removed too.
 
 The tools i used for this project are-
 
-> Html5
-> CSS
-> Bootstrap
-> JSP
-> Jquery
-> AJAX
+> Html5,
+> CSS,
+> Bootstrap,
+> JSP,
+> Jquery,
+> AJAX,
 > Postgres SQL
 
 Instructions to get the project running on a system :
